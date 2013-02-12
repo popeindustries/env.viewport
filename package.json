@@ -1,0 +1,13 @@
+{
+	"name": "env.viewport",
+	"description": "Viewport functions",
+	"version": "0.0.1",
+	"author": "popeindustries <alex@pope-industries.com>",
+	"dependencies": {
+	},
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/popeindustries/env.viewport.git"
+	}
+}
