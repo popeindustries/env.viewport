@@ -1,8 +1,8 @@
 {
 	"name": "env.viewport",
 	"description": "Viewport functions",
-	"version": "0.0.1",
-	"author": "popeindustries <alex@pope-industries.com>",
+	"version": "0.0.2",
+	"author": "Thomas Lein <alex@pope-industries.com>",
 	"dependencies": {
 	},
 	"main": "index.js",
