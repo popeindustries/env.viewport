@@ -2,9 +2,7 @@
 	"name": "env.viewport",
 	"description": "Viewport functions",
 	"version": "0.0.2",
-	"author": "Thomas Lein <alex@pope-industries.com>",
-	"dependencies": {
-	},
+	"author": "Thomas Lein <thomaslein@gmail.com>",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
